@@ -1,3 +1,3 @@
-# Aula do dia 24/08
+# Aulas de Python 2026
 
-### Olá
+### Aqui estão todas as criações que fizemos no pyCharm em 2026.
